@@ -2,5 +2,5 @@
 
 Run the code using
 
-                                                         python madlibs.py
+    python madlibs.py
 
